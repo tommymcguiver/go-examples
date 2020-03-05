@@ -1,0 +1,10 @@
+  
+{
+    "version": "1",
+    "packages": [{
+      "schema": "sql/schema.sql",
+      "queries": "sql/queries.sql",
+      "name": "db",
+      "path": "internal/db"
+    }]
+  } 
